@@ -1,14 +1,10 @@
 ---
-title: Third page
-description: No confusion here, this is the third page
+title: Quantum Teleportation
+description: Brief overview of QT
 layout: post
-date: January 16, 2019
-author: Benjamin Franklin
+date: June 21st, 2022
+author: Hiroki Kano
 excerpt: This is an excerpt for second page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus.
-
-Curabitur sed elit viverra, fermentum massa non, hendrerit ex. Vivamus eget mattis tortor, eu elementum sapien. Praesent elementum feugiat nisi venenatis vestibulum. Nulla pretium ipsum orci, ut feugiat arcu facilisis sit amet.
-
-Morbi bibendum est non nibh aliquam, non dictum massa elementum. Nullam vitae auctor erat. Mauris at arcu ut purus sodales porttitor ut sit amet ex. Donec viverra quam nisl, a congue arcu fermentum rhoncus.
+Quantum teleportation is a key principle for quantum information technology. It permits the transfer of quantum information into an otherwise inaccessible space, while also permitting the transfer of photon information into a quantum memory without revealing or destroying the stored quantum information. Here, we show reliable quantum state transfer of photon polarization into a carbon isotope nuclear spin coupled to a nitrogen-vacancy center in diamond based on photon-electron Bell state measurement by photon absorption. The carbon spin is first entangled with the electron spin, which is then permitted to absorb a photon into a spin-orbit correlated eigenstate. Detection of the electron after relaxation into the spin ground state allows post-selected transfer of arbitrary photon polarization into the carbon memory. The quantum state transfer scheme allows individual addressing of integrated quantum memories to realize scalable quantum repeaters for long-haul quantum communications, and distributed quantum computers for large-scale quantum computation and metrology.
