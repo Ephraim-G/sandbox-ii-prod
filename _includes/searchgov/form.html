@@ -3,7 +3,7 @@
 {% endcomment %}
 
 {% if include.searchgov %}
-  {% if include.searchgov.inline == true %}
+  {% if include.searchgov.inline == false %}
     <form id="search_form" class="usa-search usa-search--small" action="{{site.baseurl}}/search/" accept-charset="UTF-8" method="get">
   {% else %}
     <form id="search_form" class="usa-search usa-search--small" action="{{include.searchgov.endpoint}}/search" accept-charset="UTF-8" method="get">
